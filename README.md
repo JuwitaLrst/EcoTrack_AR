@@ -187,13 +187,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 🔗 Links
 
-- **Live Demo**: [https://ecotrack-ar.netlify.app](https://ecotrack-ar.netlify.app)
+- **Live Demo**: [https://juwitalrst.github.io/EcoTrack_AR/](https://juwitalrst.github.io/EcoTrack_AR/)
 - **Documentation**: [https://docs.ecotrack-ar.com](https://docs.ecotrack-ar.com)
 - **Blog**: [https://blog.ecotrack-ar.com](https://blog.ecotrack-ar.com)
 
 ---
 
-**Dibuat dengan ❤️ untuk bumi yang lebih hijau** 🌍
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![For the Earth](https://img.shields.io/badge/For%20the-🌍-green?style=for-the-badge)
